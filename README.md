@@ -1,4 +1,4 @@
-firefox-os-app-hello-world
+Firefox-OS-app-Hello-World
 ==========================
 
-This is a very simple "Hello World" app for firefox-os
+This is a very simple "Hello World" app for Firefox-OS
